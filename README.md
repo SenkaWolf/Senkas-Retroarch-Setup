@@ -22,7 +22,7 @@ My collection of dynamic wallpapers for the RetroArch XMB menu option and icons.
 > [!WARNING]
 > The image names must match the playlist names. To verify this in RetroArch, navigate to `Main Menu > Show Desktop Menu` to view the playlist names. By default, they will match if you scanned your ROMs, unless you have manually created or renamed a playlist.
 
-[^shakabello]: 
+[^shakabello]: shakabello Preview ![shakabello image](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/shakabello.jpg?raw=true) ![shakabello image 2](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/shakabello2.jpg?raw=true) ![shakabello image 3](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/shakabello3.jpg?raw=true) ![shakabello image 4](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/shakabello4.jpg?raw=true)
 
 ### Icon Themes
 - [Download](https://github.com/SenkaWolf/Senkas-Retroarch-Setup/archive/refs/heads/main.zip) this repo.
@@ -33,7 +33,7 @@ My collection of dynamic wallpapers for the RetroArch XMB menu option and icons.
 - Launch RetroArch go to Settings > User Interface > Appearance.
 - Scroll down further to `Icon Theme` and select the `custom` option.
 
-[^sysdaite]: ![sysdaite image](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/sysdaite.png?raw=true)
+[^sysdaite]: sysdaite Preview ![sysdaite image](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/screenshots/sysdaite.png?raw=true)
 
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
 
