@@ -42,6 +42,9 @@ All wallpapers are designed to work with the XMB menu option only!
 ## ⚙️ Configuration
 
 Change the following settings to get the cleanest look to suit the icon and wallpaper packs.
+
+**Key: ${\color{lightgreen}On/Change}$ / ${\color{yellow}Optional}$ / ${\color{red}Off}$**
+
 1. `Settings > User Interface > Appearance > Show Scale Factor` ${\color{lightgreen}1.00x}$
 1. `Settings > User Interface > Appearance > Background Apacity` ${\color{lightgreen}1.000}$
 1. `Settings > User Interface > Appearance > Dynamic Background` ${\color{lightgreen}On}$
