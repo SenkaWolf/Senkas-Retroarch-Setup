@@ -2,7 +2,7 @@
 My collection of dynamic wallpapers for the RetroArch XMB menu option and icons.
 
 > [!NOTE]
-> All titles, characters, and logos belong to their respective owners. I strive to provide proper [credit](#💜-Credit) in the [section below](#💜-Credit). If you would like something removed, please open an issue.
+> All titles, characters, and logos belong to their respective owners. I strive to provide proper [credit](#-Credit) in the [section below](#-Credit). If you would like something removed, please open an issue.
 
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
 
