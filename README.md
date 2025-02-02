@@ -77,7 +77,7 @@ RetroArch playlists are ordered alphanumerically by default. To change them you 
 > [!WARNING]
 > If you rename playlists and use dynamic wallpapers, you need to update the image names to match the new playlist names.
 
-#### Year of Release Method
+### Year of Release Method
 Renaming your playlist to have the year of release at the begining will organise it by the date.
 
 > [!NOTE]
@@ -91,7 +91,7 @@ E.g.
 - `2002 - Nintendo - GameCube.lpl`
 - `2005 - Sony - PlayStation Portable.lpl`
 
-#### Type (Console/Handheld) - Manufacturer - Release Year Method
+### Type (Console/Handheld) - Manufacturer - Release Year Method
 You could go a step further and organise by the type of device followed by the manufacturer and year. Using the table below to abbreviate you can end up with some of the examples.
 
 |         Abbreviation       |                         Description                         |
