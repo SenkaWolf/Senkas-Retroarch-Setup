@@ -62,7 +62,6 @@ Change the following settings to get the cleanest look to suit the icon and wall
 1. `Settings > User Interface > Menu Item Visibility > Date Separator` ${\color{lightgreen}/}$
 1. `Settings > User Interface > Show Advanced Settings` ${\color{lightgreen}On}$
 1. `Settings > User Interface > Menu` ${\color{lightgreen}XMB}$
-1. `Settings > User Interface > Show Advanced Settings` ${\color{lightgreen}On}$
 
 
 
