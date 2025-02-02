@@ -44,7 +44,7 @@ WIP
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
 
 ## 💜 Credit
-- Icons - This is a combination of the default systematic and daite icons packs.
-- Wallpapers v1 - A combincation of [lipebello](https://github.com/lipebello/Retroarch-XMB-Retrorama-Theme) and [Shakalakka's](https://archive.org/details/shakalakka-dynamic-wallpapers) wallpaper packs.
+- sysdaite icons pack - This is a combination of the default systematic and daite icons packs.
+- shakabello wallpaper pack - A combincation of [lipebello](https://github.com/lipebello/Retroarch-XMB-Retrorama-Theme) and [Shakalakka's](https://archive.org/details/shakalakka-dynamic-wallpapers) wallpaper packs.
 
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
