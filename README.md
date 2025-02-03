@@ -19,7 +19,7 @@ All wallpapers are designed to work with the XMB menu option only!
 - Launch RetroArch go to `Settings > User Interface > Appearance`.
 - Scroll down and make sure the setting `Dynamic Wallpaper` setting is enabled.
 - Then go back to `Settings > Directory > Dynamic Backgrounds`.
-- Change the directory to 📂 `/assets/wallpapers/pack-name`.
+- Change the directory to 📂 `/assets/wallpapers/[pack-name]`.
 
 > [!WARNING]
 > The image names must match the playlist names. To verify this in RetroArch, navigate to `Main Menu > Show Desktop Menu` to view the playlist names. By default, they will match if you scanned your ROMs, unless you have manually created or renamed a playlist.
@@ -114,7 +114,7 @@ E.g.
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
 
 ## 💜 Credit
-- sysdaite icon pack - This is a combination of the default systematic and daite icons packs.
 - shakabello wallpaper pack - A combincation of [lipebello](https://github.com/lipebello/Retroarch-XMB-Retrorama-Theme) and [Shakalakka's](https://archive.org/details/shakalakka-dynamic-wallpapers) wallpaper packs.
+- sysdaite icon pack - This is a combination of the default systematic and daite icons packs.
 
 ![---](https://github.com/senkawolf/Senkas-Retroarch-Setup/blob/main/media/line.png?raw=true)
