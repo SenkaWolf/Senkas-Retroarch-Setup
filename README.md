@@ -45,6 +45,8 @@ Change the following settings to get the cleanest look to suit the icon and wall
 
 **Key: ${\color{lightgreen}On/Change}$ / ${\color{yellow}Optional}$ / ${\color{red}Off}$**
 
+1. `Settings > User Interface > Show Advanced Settings` ${\color{lightgreen}On}$
+1. `Settings > User Interface > Menu` ${\color{lightgreen}XMB}$
 1. `Settings > User Interface > Appearance > Show Scale Factor` ${\color{lightgreen}1.00x}$
 1. `Settings > User Interface > Appearance > Background Apacity` ${\color{lightgreen}1.000}$
 1. `Settings > User Interface > Appearance > Dynamic Background` ${\color{lightgreen}On}$
@@ -64,8 +66,6 @@ Change the following settings to get the cleanest look to suit the icon and wall
 1. `Settings > User Interface > Menu Item Visibility > Date Separator` ${\color{lightgreen}/}$
 1. `Settings > User Interface > Menu Item Visibility > Show Core Name` ${\color{red}Off}$
 1. `Settings > User Interface > Menu Item Visibility > Show Menu Sub-labels` ${\color{red}Off}$
-1. `Settings > User Interface > Show Advanced Settings` ${\color{lightgreen}On}$
-1. `Settings > User Interface > Menu` ${\color{lightgreen}XMB}$
 1. `Settings > Playlists > Manage Playlists`
    - Go through every playlist and change `Label Display Mode` to ${\color{lightgreen}Remove\space ()\space and\space [] }$
 
